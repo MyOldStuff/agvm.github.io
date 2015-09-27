@@ -7,6 +7,22 @@ google_analytics_id: TODO_REPLACE_ME
 safe: true
 permalink: /aktuelles/:year/:month/:day/:title
 
+defaults:
+  - scope:
+      path: ""
+      type: veranstaltungen
+    values:
+      layout: event
+      allday: false
+      start: 1970-01-01 12:29:13+00:00
+      end: 1970-01-01 22:29:13+00:00
+      venue:
+
+collections:
+  veranstaltungen:
+    output: true
+    permalink: /veranstaltungen/:path/
+
 exclude:
   - Gemfile
   - Gemfile.lock
