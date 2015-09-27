@@ -34,6 +34,12 @@ Source: http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
     {% if node_url_parts_size == url_parts_size_next and filename == 'index.html' %}
       {% assign is_primary_nav = true %}
     {% endif %}
+    {% if node.primary_menu.hidden == true %}
+      {% assign is_primary_nav = false %}
+    {% endif %}
+    {% if node.title == %}
+      {% assign is_primary_nav = false %}
+    {% endif %}
 
     {% if is_primary_nav %}
       <li{% if page.url == node.url %} class="active"{% endif %}><a href='{{node.url}}'>{{node.title}}</a></li>
