@@ -9,6 +9,19 @@ Source: http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
 
 <ul class="nav nav-pills nav-stacked">
 {% assign pages = site.pages | sort: 'weight' %}
+
+{% for node in pages %}
+  {% if node.url contains base_url %}
+    {% assign node_url_parts = node.url | split: '/' %}
+    {% assign node_url_parts_size = node_url_parts | size %}
+    {% assign filename = node_url_parts | last %}
+
+    {% if node_url_parts_size == url_parts_size and filename == 'index.html' %}
+      <li{% if page.url == node.url %} class="active"{% endif %}><a href='{{node.url}}'>{{node.title}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
 {% for node in pages %}
   {% if node.url contains base_url %}
     {% assign node_url_parts = node.url | split: '/' %}
