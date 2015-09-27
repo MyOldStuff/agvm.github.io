@@ -34,7 +34,7 @@
           {% endif %}
 
           {% if is_primary_nav %}
-            <li><a href='{{node.url}}'>{{node.title}}</a></li>
+            <li{% if page.url == node.url %} class="active"{% endif %}><a href='{{node.url}}'>{{node.title}}</a></li>
           {% endif %}
           {% assign is_primary_nav = false %}
         {% endfor %}
