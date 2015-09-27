@@ -28,3 +28,6 @@ prose:
 gems:
   - jekyll-feed
   - jekyll-sitemap
+
+sass:
+  style: :compressed
