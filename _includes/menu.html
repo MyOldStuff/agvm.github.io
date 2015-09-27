@@ -1,11 +1,3 @@
-{% comment %}
-Source: http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
-{% endcomment %}
-{% assign url_parts = page.url | split: '/' %}
-{% assign url_parts_size = url_parts | size %}
-{% assign rm = url_parts | last %}
-{% assign base_url = page.url | replace: rm %}
-
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -22,15 +14,29 @@ Source: http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        {% for node in site.pages %}
-          {% if node.url contains base_url %}
-            {% assign node_url_parts = node.url | split: '/' %}
-            {% assign node_url_parts_size = node_url_parts | size %}
-            {% assign filename = node_url_parts | last %}
-            {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
-              <li><a href='{{node.url}}'>{{node.title}}</a></li>
-            {% endif %}
+        {% assign pages = site.pages | sort: 'weight' %}
+        {% for node in pages %}
+          {% assign node_url_parts = node.url | split: '/' %}
+          {% assign node_url_parts_size = node_url_parts | size %}
+          {% assign filename = node_url_parts | last %}
+
+          {% if node_url_parts_size == 2 and filename != 'index.html' %}
+            {% assign is_primary_nav = true %}
           {% endif %}
+          {% if node_url_parts_size == 3 and filename == 'index.html' %}
+            {% assign is_primary_nav = true %}
+          {% endif %}
+          {% if node.primary_menu.hidden == true %}
+            {% assign is_primary_nav = false %}
+          {% endif %}
+          {% if node.title == %}
+            {% assign is_primary_nav = false %}
+          {% endif %}
+
+          {% if is_primary_nav %}
+            <li><a href='{{node.url}}'>{{node.title}}</a></li>
+          {% endif %}
+          {% assign is_primary_nav = false %}
         {% endfor %}
       </ul>
     </div>
