@@ -1,11 +1,13 @@
 safe: true
 permalink: /news/:year/:month/:day/:title
 
-exclude: ['Gemfile', 'Gemfile.lock']
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 url: http://agvm.github.io
 
-language: en
+language: de
 
 google_analytics_id: TODO_REPLACE_ME
 
