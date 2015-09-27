@@ -6,6 +6,8 @@ layout: page
 slug: impressum
 title: Impressum
 wordpress_id: 679
+primary_menu:
+  hidden: true
 ---
 
 Angaben gemäß § 5 TMG:
