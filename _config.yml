@@ -1,5 +1,5 @@
 safe: true
-permalink: /news/:year/:month/:day/:title
+permalink: /aktuelles/:year/:month/:day/:title
 
 exclude:
   - Gemfile
