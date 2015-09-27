@@ -7,6 +7,7 @@ Source: http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
 {% assign rm = url_parts | last %}
 {% assign base_url = page.url | replace: rm %}
 
+{% if url_parts_size != 2 %}
 <ul class="nav nav-pills nav-stacked">
 {% assign pages = site.pages | sort: 'weight' %}
 
@@ -48,3 +49,4 @@ Source: http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
   {% endif %}
 {% endfor %}
 </ul>
+{% endif %}
