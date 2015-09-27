@@ -13,53 +13,30 @@ redirect_from: "/kontakt/impressum/"
 
 Angaben gemäß § 5 TMG:
 
-Philisterverband des AGV Akademischer Gesangverein München e.V.
-
-Ledererstraße 5
-80331 München
+{{ site.data.philisterium.anschrift.name }}<br>
+{{ site.data.philisterium.anschrift.strasse }}<br>
+{{ site.data.philisterium.anschrift.plz }} {{ site.data.philisterium.anschrift.ort }}
 
 ## Vertreten durch:
 
-Philipp Capeller, Dipl.-Ing. (1. Vorsitzender Philisterverband)
 
-Andreas Keil, Dipl.-Ing. (2. Vorsitzender Philisterverband)
+* {{ site.data.philisterium.vorstaende.x.name }} ({{ site.data.philisterium.vorstaende.x.titel }} Philisterverband)
+* {{ site.data.philisterium.vorstaende.xx.name }} ({{ site.data.philisterium.vorstaende.xx.titel }} Philisterverband)
 
 ## Kontakt:
 
-<table >
-<tbody >
-<tr >
-
-<td >Telefon:
-</td>
-
-<td >(089) 22 37 07
-</td>
-</tr>
-<tr >
-
-<td >Telefax:
-</td>
-
-<td >(089) 29 16 14 41
-</td>
-</tr>
-<tr >
-
-<td >E-Mail:
-</td>
-
-<td >geschaeftsstelle@agv-muenchen.de
-</td>
-</tr>
-</tbody>
-</table>
+| Telefon | {{ site.data.philisterium.telefon }} |
+| Telefax | {{ site.data.philisterium.fax }} |
+| E-Mail: | {{ site.data.philisterium.email }} |
+{: class="table table-striped"}
 
 ## Registereintrag:
 
 Eintragung im Vereinsregister.
-Registergericht: Amtsgericht München Registergericht
-Registernummer: Bd. 35 Nr. 33/859
+
+| Registergericht | Amtsgericht München Registergericht |
+| Registernummer | Bd. 35 Nr. 33/859 |
+{: class="table table-striped"}
 
 ## Umsatzsteuer-ID:
 
