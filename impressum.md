@@ -8,6 +8,7 @@ title: Impressum
 wordpress_id: 679
 primary_menu:
   hidden: true
+redirect_from: "/kontakt/impressum/" 
 ---
 
 Angaben gemäß § 5 TMG:

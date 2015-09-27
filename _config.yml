@@ -43,6 +43,7 @@ prose:
 
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 sass:
