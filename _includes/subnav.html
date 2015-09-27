@@ -3,18 +3,29 @@ Source: http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
 {% endcomment %}
 {% assign url_parts = page.url | split: '/' %}
 {% assign url_parts_size = url_parts | size %}
+{% assign url_parts_size_next = url_parts_size | plus: 1 %}
 {% assign rm = url_parts | last %}
 {% assign base_url = page.url | replace: rm %}
 
-<ul>
-{% for node in site.pages %}
+<ul class="nav nav-pills nav-stacked">
+{% assign pages = site.pages | sort: 'weight' %}
+{% for node in pages %}
   {% if node.url contains base_url %}
     {% assign node_url_parts = node.url | split: '/' %}
     {% assign node_url_parts_size = node_url_parts | size %}
     {% assign filename = node_url_parts | last %}
-    {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
-      <li><a href='{{node.url}}'>{{node.title}}</a></li>
+
+    {% if node_url_parts_size == url_parts_size and filename != 'index.html' %}
+      {% assign is_primary_nav = true %}
     {% endif %}
+    {% if node_url_parts_size == url_parts_size_next and filename == 'index.html' %}
+      {% assign is_primary_nav = true %}
+    {% endif %}
+
+    {% if is_primary_nav %}
+      <li{% if page.url == node.url %} class="active"{% endif %}><a href='{{node.url}}'>{{node.title}}</a></li>
+    {% endif %}
+    {% assign is_primary_nav = false %}
   {% endif %}
 {% endfor %}
 </ul>
