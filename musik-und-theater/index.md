@@ -6,6 +6,7 @@ layout: page
 slug: musik-und-theater
 title: Musik & Theater
 wordpress_id: 36
+weight: 40
 ---
 
 Die Mitglieder und Freunde des AGVs sind auf vielfältige Weise musisch aktiv.

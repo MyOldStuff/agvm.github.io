@@ -6,6 +6,7 @@ layout: page
 slug: ueber-den-agv
 title: AGV
 wordpress_id: 2
+weight: 20
 ---
 
 Der Akademische Gesangverein ist eine Studentenverbindung jenseits der üblichen Vorstellungen von Verbindungen.

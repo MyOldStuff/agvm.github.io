@@ -6,6 +6,7 @@ layout: page
 slug: kontakt
 title: Kontakt
 wordpress_id: 38
+weight: 120
 ---
 
 # Geschäftsstelle des AGV

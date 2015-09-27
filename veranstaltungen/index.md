@@ -6,6 +6,7 @@ layout: page
 slug: veranstaltungen
 title: Veranstaltungen
 wordpress_id: 33
+weight: 60
 ---
 
 Auf dieser Seite findest du immer das aktuelle Programm mit allen Änderungen.

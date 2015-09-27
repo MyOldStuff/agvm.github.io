@@ -6,6 +6,7 @@ layout: page
 slug: vermietung
 title: Vermietung
 wordpress_id: 198
+weight: 100
 ---
 
 ![Das AGV Verbindungshaus "Die Scholastika"](/wp-content/uploads/2012/05/Scholastika-von-links.jpg)
