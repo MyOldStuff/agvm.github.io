@@ -1,4 +1,12 @@
-verteiler: vorstandschaft@agv-muenchen.de
+email: vorstandschaft@agv-muenchen.de
+telefon: (089) 29 35 12
+fax: (089) 29 35 12
+
+anschrift:
+  name: Akademischer Gesangverein München e.V. im SV Aktivitas
+  strasse: Ledererstraße 5
+  plz: 80331
+  ort: München
 
 vorstaende:
   x:

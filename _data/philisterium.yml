@@ -1,5 +1,3 @@
-verteiler:
-
 vorstaende:
   x:
     titel: 1. Vorsitzender
@@ -11,3 +9,22 @@ vorstaende:
     name: Andreas Keil
     email:
     homepage:
+
+email: geschaeftsstelle@agv-muenchen.de
+telefon: (089) 22 37 07
+fax: (089) 29 16 14 41
+
+anschrift:
+  name: Philisterverband des AGV Akademischer Gesangverein München e.V.
+  strasse: Ledererstraße 5
+  plz: 80331
+  ort: München
+
+gf:
+  titel: Geschäftsführung
+  name: Monika Kunisch
+  email: geschaeftsstelle@agv-muenchen.de
+
+hausmeisterei:
+  name: Herr und Frau Clasen
+  telefon: (089) 29 16 52 59
