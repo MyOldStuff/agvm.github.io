@@ -1,0 +1,38 @@
+verteiler: vorstandschaft@agv-muenchen.de
+
+vorstaende:
+  x:
+    titel: 1. Vorsitzender (x)
+    name: Markus Waidner
+    email: x@agv-muenchen.de
+    homepage:
+  xx:
+    titel: 2. Vorsitzender (xx)
+    name: Sebastian Geß
+    email: xx@agv-muenchen.de
+    homepage:
+  xxx:
+    titel: Kassenwart (xxx)
+    name: Andreas Paulus
+    email: xxx@agv-muenchen.de
+    homepage:
+  xxxx:
+    titel: Schriftführer (xxxx)
+    name: Clemens Liewald
+    email: xxxx@agv-muenchen.de
+    homepage:
+  fm:
+    titel: Fuxmajor (FM)
+    name: Robin Ruhnau
+    email: fm@agv-muenchen.de
+    homepage:
+  gw:
+    titel: Gästewart (GW)
+    name: Peer Pospischil
+    email: gw@agv-muenchen.de
+    homepage:
+  bw:
+    titel: Ballotagewart (BW)
+    name: Hung Nguyen
+    email: bw@agv-muenchen.de
+    homepage:
