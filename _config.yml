@@ -1,0 +1,27 @@
+safe: true
+permalink: /news/:year/:month/:day/:title
+
+exclude: ['Gemfile', 'Gemfile.lock']
+
+url: http://agvm.github.io
+
+language: en
+
+google_analytics_id: TODO_REPLACE_ME
+
+markdown: kramdown
+
+prose:
+  siteurl: "http://agvm.github.io"
+  media: images
+  relativeLinks: 'http://agvm.github.io/links.jsonp'
+  ignore:
+    - .gitignore
+    - _config.yml
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - links.jsonp
+
+gems:
+  - jekyll-sitemap
