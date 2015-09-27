@@ -3,7 +3,7 @@ Homepage des AGV München
 
 Homepage of AGV München
 
-Prose content editor: <http://prose.io/#agvm/agvm.github.io>
+Prose content editor: <http://prose.io/#AGVM/agvm.github.io>
 
 ## License
 
