@@ -36,11 +36,18 @@ prose:
   relativeLinks: 'http://agvm.github.io/links.jsonp'
   ignore:
     - .gitignore
-    - _config.yml
+    - calendar.json
     - CNAME
+    - css
     - Gemfile
     - Gemfile.lock
     - links.jsonp
+    - README.md
+    - robots.txt
+    - _config.yml
+    - _includes
+    - _layouts
+    - _sass
 
 gems:
   - jekyll-feed
