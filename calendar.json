@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: null
 ---
 {"events": [{% assign first = true %}
 {% for event in site.veranstaltungen reversed %}
