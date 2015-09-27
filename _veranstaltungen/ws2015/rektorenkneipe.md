@@ -1,9 +1,7 @@
 ---
 title: 124. Rektorenkneipe
-start: 2015-11-19
-end: 2015-11-19
-starttime: 20:00:00
-endtime: 23:00:00
+start: 2015-11-19 20:00:00
+end: 2015-11-19 23:00:00
 venue: Großer Saal
 ---
 
