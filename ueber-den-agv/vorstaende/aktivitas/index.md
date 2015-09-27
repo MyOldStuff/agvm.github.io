@@ -68,4 +68,4 @@ E-Mail: [{{ site.data.aktivitas.vorstaende.bw.email }}](mailto:{{ site.data.akti
 
 # Kontakt zur Vorstandschaft
 
-E-Mail: [vorstandschaft@agv-muenchen.de](mailto:vorstandschaft@agv-muenchen.de)
+E-Mail: [{{ site.data.aktivitas.email }}](mailto:{{ site.data.aktivitas.email }})
