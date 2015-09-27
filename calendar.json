@@ -1,0 +1,23 @@
+---
+layout: none
+---
+{"events": [{% assign first = true %}
+{% for event in site.veranstaltungen reversed %}
+    {% if first == false %},{% endif %}
+    {% if first == true %}{% assign first = false %}{% endif %}
+  {
+    "name": "{{ event.title }}",
+    "allday": "{{ event.allday }}",
+    "start": "{{ event.start }}",
+    "end": "{{ event.end }}",
+    "starttime": "{{ event.start | date: "%I:%M %p"  | downcase }}",
+    "endtime": "{{ event.end | date: "%I:%M %p" | downcase }}",
+    "venue": "{{ event.venue }}",
+    "address": "{{ event.address }}",
+    "city": "{{ event.city }}",
+    "website": "{{ event.website }}",
+    "url": "{{ event.url }}",
+    "summary": "{{ event.content | strip_html }}"
+  }
+{% endfor %}
+]}
