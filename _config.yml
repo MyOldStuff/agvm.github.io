@@ -24,4 +24,5 @@ prose:
     - links.jsonp
 
 gems:
+  - jekyll-feed
   - jekyll-sitemap
