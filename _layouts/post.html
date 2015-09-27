@@ -3,22 +3,24 @@ layout: default
 ---
 {% include menu.html %}
 
-<div class="row">
-  <div class="col-md-8">
-    <div class="post">
-      <header class="page-header">
-        <h1>
-          {{ page.title }}
-          <small>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</small>
-        </h1>
-      </header>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="post">
+        <header class="page-header">
+          <h1>
+            {{ page.title }}
+            <small>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</small>
+          </h1>
+        </header>
 
-      <article>
-        {{ content }}
-      </article>
+        <article>
+          {{ content }}
+        </article>
+      </div>
     </div>
-  </div>
-  <div class="col-md-4">
-    {% include subnav.html %}
+    <div class="col-md-4">
+      {% include subnav.html %}
+    </div>
   </div>
 </div>

@@ -1,44 +1,46 @@
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">AGV München</a>
-    </div>
+<div class="container-fluid">
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">AGV München</a>
+      </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        {% assign pages = site.pages | sort: 'weight' %}
-        {% for node in pages %}
-          {% assign node_url_parts = node.url | split: '/' %}
-          {% assign node_url_parts_size = node_url_parts | size %}
-          {% assign filename = node_url_parts | last %}
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          {% assign pages = site.pages | sort: 'weight' %}
+          {% for node in pages %}
+            {% assign node_url_parts = node.url | split: '/' %}
+            {% assign node_url_parts_size = node_url_parts | size %}
+            {% assign filename = node_url_parts | last %}
 
-          {% if node_url_parts_size == 2 and filename != 'index.html' %}
-            {% assign is_primary_nav = true %}
-          {% endif %}
-          {% if node_url_parts_size == 3 and filename == 'index.html' %}
-            {% assign is_primary_nav = true %}
-          {% endif %}
-          {% if node.primary_menu.hidden == true %}
+            {% if node_url_parts_size == 2 and filename != 'index.html' %}
+              {% assign is_primary_nav = true %}
+            {% endif %}
+            {% if node_url_parts_size == 3 and filename == 'index.html' %}
+              {% assign is_primary_nav = true %}
+            {% endif %}
+            {% if node.primary_menu.hidden == true %}
+              {% assign is_primary_nav = false %}
+            {% endif %}
+            {% if node.title == %}
+              {% assign is_primary_nav = false %}
+            {% endif %}
+
+            {% if is_primary_nav %}
+              <li{% if page.url == node.url %} class="active"{% endif %}><a href='{{node.url}}'>{{node.title}}</a></li>
+            {% endif %}
             {% assign is_primary_nav = false %}
-          {% endif %}
-          {% if node.title == %}
-            {% assign is_primary_nav = false %}
-          {% endif %}
-
-          {% if is_primary_nav %}
-            <li{% if page.url == node.url %} class="active"{% endif %}><a href='{{node.url}}'>{{node.title}}</a></li>
-          {% endif %}
-          {% assign is_primary_nav = false %}
-        {% endfor %}
-      </ul>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</div>
