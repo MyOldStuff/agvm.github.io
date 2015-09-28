@@ -2,7 +2,11 @@
   <div class="row">
     <div class="col-xs-12 col-sm-offset-2 col-sm-8">
       <ul class="event-list">
-        {% for event in site.veranstaltungen %}
+        {% assign now = 'now' | date: '%s' | plus: 0 %}
+        {% assign veranstaltungen = site.veranstaltungen | sort: "start" %}
+        {% for event in veranstaltungen %}
+        {% assign event_end = event.end | date: '%s' | plus: 0 %}
+        {% if event_end < now %}{% continue %}{% endif %}
         <li>
           <time datetime="{{ event.start | date: "%Y-%m-%d" }}">
             <span class="day">{{ event.start | date: "%-d" }}</span>
