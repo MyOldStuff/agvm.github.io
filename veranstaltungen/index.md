@@ -31,3 +31,8 @@ Im Sommersemester begehen wir jedes Jahr unser Stiftungsfest. Dieses Jahr findet
 # Semesterprogramm
 
 Alle weiteren Veranstaltungen im AGV.
+
+{% for event in site.veranstaltungen %}
+* [{{ event.title }}]({{ event.url }})
+{% endfor %}
+

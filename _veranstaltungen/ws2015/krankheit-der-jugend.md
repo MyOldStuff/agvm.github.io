@@ -1,5 +1,5 @@
 ---
-title: 124. Rektorenkneipe
+title: Krankheit der Jugend
 start: 
   - 2015-10-09 19:30:00
   - 2015-10-10 19:30:00
