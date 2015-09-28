@@ -2,7 +2,7 @@ title: AGV München
 url: http://agvm.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 language: de
-google_analytics_id: TODO_REPLACE_ME
+google_analytics_id: null # TODO: provide Google Analytics ID when going online
 
 safe: true
 permalink: /aktuelles/:year/:month/:day/:title
