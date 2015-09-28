@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-02-16 13:48:50+00:00
-layout: post
 published: false
 slug: arsen-und-spitzenhaeubchen
 title: Arsen und Spitzenhäubchen

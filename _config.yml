@@ -17,6 +17,11 @@ defaults:
       start: 1970-01-01 12:29:13+00:00
       end: 1970-01-01 22:29:13+00:00
       venue:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
 collections:
   veranstaltungen:

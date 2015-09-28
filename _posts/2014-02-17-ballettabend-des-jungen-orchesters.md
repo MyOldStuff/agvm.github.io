@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-02-17 17:56:41+00:00
-layout: post
 published: false
 slug: ballettabend-des-jungen-orchesters
 title: Ballettabend des Jungen Orchesters

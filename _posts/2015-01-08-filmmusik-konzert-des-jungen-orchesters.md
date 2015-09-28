@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2015-01-08 15:46:49+00:00
-layout: post
 published: false
 slug: filmmusik-konzert-des-jungen-orchesters
 title: Filmmusik-Konzert des Jungen Orchesters

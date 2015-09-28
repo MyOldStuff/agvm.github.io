@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2014-10-24 17:40:09+00:00
-layout: post
 published: false
 slug: konzert-kammersaenger-peter-schreier-2
 title: Konzert mit dem Kammersänger Peter Schreier

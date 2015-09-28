@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-10-13 15:47:10+00:00
-layout: post
 published: false
 slug: chorhochdrei
 title: chorhochdrei

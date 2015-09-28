@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-11-25 20:00:34+00:00
-layout: post
 published: false
 slug: jasm-meets-6-for-chords
 title: '"Jasm" meets "6 for Chords"'

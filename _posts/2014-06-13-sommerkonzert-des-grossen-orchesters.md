@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-06-13 10:47:32+00:00
-layout: post
 published: false
 slug: sommerkonzert-des-grossen-orchesters
 title: Sommerkonzert des Großen Orchesters

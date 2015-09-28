@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-01-20 15:00:34+00:00
-layout: post
 published: false
 slug: winterkonzert-des-grossen-orchesters
 title: Winterkonzert des Großen Orchesters

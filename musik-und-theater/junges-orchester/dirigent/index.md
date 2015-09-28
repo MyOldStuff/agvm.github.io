@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2012-05-15 08:40:56+00:00
 layout: page
 slug: dirigent

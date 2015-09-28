@@ -1,8 +1,6 @@
 ---
 author: tm
-comments: false
 date: 2014-12-24 13:41:02+00:00
-layout: post
 published: false
 slug: der-agv-wuenscht-euch-allen-ein-frohes-weihnachtsfest
 title: Der AGV wünscht Euch allen ein frohes Weihnachtsfest!

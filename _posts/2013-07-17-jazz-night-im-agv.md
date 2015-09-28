@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-07-17 14:59:29+00:00
-layout: post
 published: false
 slug: jazz-night-im-agv
 title: Jazz Night im AGV

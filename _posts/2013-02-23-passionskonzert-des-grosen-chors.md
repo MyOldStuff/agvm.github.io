@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-02-23 20:00:29+00:00
-layout: post
 published: false
 slug: passionskonzert-des-grosen-chors
 title: Passionskonzert des Großen Chors

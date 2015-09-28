@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-10-24 16:51:30+00:00
 layout: page
 slug: ueber-den-agv

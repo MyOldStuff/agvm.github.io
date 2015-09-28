@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-03-09 16:13:52+00:00
-layout: post
 published: false
 slug: theatersport-2
 title: Impro im AGV

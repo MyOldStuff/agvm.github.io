@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2012-10-27 12:42:07+00:00
 layout: page
 slug: biographie

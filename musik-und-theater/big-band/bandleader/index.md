@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2012-10-25 13:25:38+00:00
 layout: page
 slug: bandleader

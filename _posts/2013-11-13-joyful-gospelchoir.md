@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2013-11-13 15:59:59+00:00
-layout: post
 published: false
 slug: joyful-gospelchoir
 title: Joyful Gospelchoir

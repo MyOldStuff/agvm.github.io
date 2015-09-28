@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2013-05-03 09:30:34+00:00
 layout: page
 slug: kammermusik

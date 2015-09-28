@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2012-11-17 22:00:38+00:00
-layout: post
 published: false
 slug: passages-gitarren-recital
 title: 'Kammermusik im AGV: Passages - Gitarren-Recital'

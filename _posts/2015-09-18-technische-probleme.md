@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-09-18 15:17:23+00:00
-layout: post
 slug: "technische-probleme"
 title: Technische Probleme
 wordpress_id: 3435

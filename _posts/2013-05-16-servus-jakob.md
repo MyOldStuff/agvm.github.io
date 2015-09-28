@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-05-16 09:59:47+00:00
-layout: post
 published: false
 slug: servus-jakob
 title: Servus Jakob!

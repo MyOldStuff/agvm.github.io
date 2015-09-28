@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-04-15 22:20:47+00:00
-layout: post
 published: false
 slug: bayerischer-abend-des-wohnheims
 title: Bayerischer Abend des Wohnheims

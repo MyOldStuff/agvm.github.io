@@ -1,6 +1,5 @@
 ---
 author: x
-comments: false
 date: 2012-11-02 12:00:44+00:00
 layout: page
 slug: speiseplan

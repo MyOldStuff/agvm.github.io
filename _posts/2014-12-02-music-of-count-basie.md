@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-12-02 00:05:46+00:00
-layout: post
 published: false
 slug: music-of-count-basie
 title: Music of Count Basie

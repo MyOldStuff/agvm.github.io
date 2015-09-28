@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-05-28 18:45:18+00:00
-layout: post
 published: false
 slug: jazz-night-der-big-band
 title: Jazz Night der Big Band

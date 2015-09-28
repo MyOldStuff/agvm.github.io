@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-05-13 10:38:59+00:00
-layout: post
 published: false
 slug: kammerkonzert-des-ensemble-luminus-entfaellt
 title: Kammerkonzert des Ensemble Luminus entfällt

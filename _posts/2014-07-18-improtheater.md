@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2014-07-18 16:14:21+00:00
-layout: post
 published: false
 slug: improtheater
 title: Improtheater

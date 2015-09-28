@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-12-23 12:48:06+00:00
-layout: post
 published: false
 slug: der-agv-wuenscht-euch-frohe-weihnachten-und-einen-guten-rutsch
 title: Der AGV wünscht Euch frohe Weihnachten und einen guten Rutsch!!!

@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2012-11-28 13:43:50+00:00
-layout: post
 published: false
 slug: kartenvorverkauf-fur-mahler-der-titan-gestartet
 title: Kartenvorverkauf für Mahler "Der Titan" gestartet

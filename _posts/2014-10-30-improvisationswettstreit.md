@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2014-10-30 19:30:05+00:00
-layout: post
 published: false
 slug: improvisationswettstreit
 title: Improvisationswettstreit

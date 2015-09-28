@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-03-10 14:31:35+00:00
-layout: post
 published: false
 slug: ein-sommernachtstraum-von-william-shakespeare
 title: Ein Sommernachtstraum von William Shakespeare

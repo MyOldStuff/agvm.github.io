@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-10 09:21:14+00:00
 layout: page
 slug: drehmoeser-huette

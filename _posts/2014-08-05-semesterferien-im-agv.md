@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-08-05 08:23:45+00:00
-layout: post
 published: false
 slug: semesterferien-im-agv
 title: Semesterferien im AGV

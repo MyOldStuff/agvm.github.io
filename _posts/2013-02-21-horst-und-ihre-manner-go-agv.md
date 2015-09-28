@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-02-21 13:37:49+00:00
-layout: post
 published: false
 slug: horst-und-ihre-manner-go-agv
 title: Horst und ihre Männer go AGV

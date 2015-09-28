@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-03-12 12:50:21+00:00
-layout: post
 published: false
 slug: erlebe-den-nackten-wahnsinn
 title: Erlebe den nackten Wahnsinn

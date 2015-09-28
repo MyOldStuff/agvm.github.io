@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-07-23 12:41:50+00:00
-layout: post
 published: false
 slug: much-air-arround-nothing
 title: Much air arround nothing...

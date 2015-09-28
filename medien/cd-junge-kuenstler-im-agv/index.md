@@ -1,6 +1,5 @@
 ---
 author: x
-comments: false
 date: 2013-12-11 10:45:41+00:00
 layout: page
 slug: cd-junge-kuenstler-im-agv

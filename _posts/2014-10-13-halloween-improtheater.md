@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2014-10-13 14:26:20+00:00
-layout: post
 published: false
 slug: halloween-improtheater
 title: Halloween Improtheater

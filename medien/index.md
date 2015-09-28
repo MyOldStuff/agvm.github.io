@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-25 19:58:52+00:00
 layout: page
 slug: medien

@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-25 19:25:49+00:00
 layout: page
 slug: 150-jahre-agv

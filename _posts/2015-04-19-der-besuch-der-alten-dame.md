@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-04-19 10:24:45+00:00
-layout: post
 published: false
 slug: der-besuch-der-alten-dame
 title: Der Besuch der alten Dame

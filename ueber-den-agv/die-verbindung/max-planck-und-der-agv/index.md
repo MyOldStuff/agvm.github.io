@@ -1,6 +1,5 @@
 ---
 author: x
-comments: false
 date: 2014-04-23 06:31:37+00:00
 layout: page
 slug: max-planck-und-der-agv

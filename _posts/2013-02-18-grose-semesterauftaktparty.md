@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-02-18 21:09:40+00:00
-layout: post
 published: false
 slug: grose-semesterauftaktparty
 title: Große Semesterauftaktparty

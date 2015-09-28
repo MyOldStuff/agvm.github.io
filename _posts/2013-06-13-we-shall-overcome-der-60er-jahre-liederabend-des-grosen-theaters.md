@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-06-13 09:33:06+00:00
-layout: post
 published: false
 slug: we-shall-overcome-der-60er-jahre-liederabend-des-grosen-theaters
 title: We shall overcome - der 60er Jahre Liederabend des Großen Theaters

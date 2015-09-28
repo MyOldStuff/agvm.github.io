@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2015-09-17 15:33:54+00:00
-layout: post
 slug: jg-theater-krankheit-der-jugend
 title: 'Jg. Theater: Krankheit der Jugend'
 wordpress_id: 3432

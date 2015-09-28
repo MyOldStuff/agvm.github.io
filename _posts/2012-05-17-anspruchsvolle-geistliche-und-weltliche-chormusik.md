@@ -1,8 +1,6 @@
 ---
 author: admin
-comments: false
 date: 2012-05-17 12:43:42+00:00
-layout: post
 published: false
 slug: anspruchsvolle-geistliche-und-weltliche-chormusik
 title: Anspruchsvolle geistliche und weltliche Chormusik

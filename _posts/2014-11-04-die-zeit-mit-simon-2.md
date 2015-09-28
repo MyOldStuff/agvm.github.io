@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2014-11-04 08:06:10+00:00
-layout: post
 published: false
 slug: die-zeit-mit-simon-2
 title: Die Zeit mit Simon

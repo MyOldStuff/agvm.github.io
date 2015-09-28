@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-02-02 11:26:36+00:00
-layout: post
 published: false
 slug: jazz-night
 title: Jazznight

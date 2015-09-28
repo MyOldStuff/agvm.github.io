@@ -1,6 +1,5 @@
 ---
 author: ag
-comments: false
 date: 2015-02-14 20:58:04+00:00
 layout: page
 slug: projekte-und-termine

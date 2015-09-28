@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2015-06-03 15:02:17+00:00
-layout: post
 published: false
 slug: improvisationstheater-mit-schlagvertig-2
 title: Improvisationstheater mit schlAGVertig

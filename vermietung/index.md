@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2012-05-14 09:04:01+00:00
 layout: page
 slug: vermietung

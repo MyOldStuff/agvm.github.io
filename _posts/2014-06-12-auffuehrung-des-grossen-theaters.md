@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2014-06-12 11:11:01+00:00
-layout: post
 published: false
 slug: auffuehrung-des-grossen-theaters
 title: '"Pünktchen und Anton" von Erich Kästner'

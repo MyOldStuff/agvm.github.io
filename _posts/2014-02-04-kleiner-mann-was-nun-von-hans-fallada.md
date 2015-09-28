@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-02-04 14:39:43+00:00
-layout: post
 published: false
 slug: kleiner-mann-was-nun-von-hans-fallada
 title: '"Kleiner Mann, was nun?" von Hans Fallada'

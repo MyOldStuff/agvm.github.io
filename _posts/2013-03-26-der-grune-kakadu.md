@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-03-26 17:36:24+00:00
-layout: post
 published: false
 slug: der-grune-kakadu
 title: Der grüne Kakadu

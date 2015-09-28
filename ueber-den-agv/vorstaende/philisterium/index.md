@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2012-05-15 06:09:11+00:00
 layout: page
 slug: philisterium

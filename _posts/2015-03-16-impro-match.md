@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-03-16 18:48:28+00:00
-layout: post
 published: false
 slug: impro-match
 title: Impro-Match

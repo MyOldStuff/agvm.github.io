@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2013-09-02 10:40:24+00:00
-layout: post
 published: false
 slug: lieblingsmenschen
 title: Lieblingsmenschen

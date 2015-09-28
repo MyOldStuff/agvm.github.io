@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-07-30 10:28:57+00:00
-layout: post
 published: false
 slug: auftakt-des-jungen-orchesters-zum-wise-1415
 title: Auftakt des Jungen Orchesters zum WiSe 14/15

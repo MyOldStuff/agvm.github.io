@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-10-19 22:23:48+00:00
-layout: post
 published: false
 slug: semester-auftaktparty
 title: Semester-Auftaktparty

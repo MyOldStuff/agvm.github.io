@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-04-30 22:45:31+00:00
-layout: post
 published: false
 slug: jubilaeumskonzert-des-jungen-chores
 title: Jubiläumskonzert des Jungen Chores

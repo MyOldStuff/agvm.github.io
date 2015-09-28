@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2012-12-17 14:34:31+00:00
-layout: post
 published: false
 slug: ball-der-musen-im-januar-2013
 title: Ball der Musen schon im Januar 2013

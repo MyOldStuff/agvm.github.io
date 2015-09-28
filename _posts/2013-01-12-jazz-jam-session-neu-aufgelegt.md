@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-01-12 20:00:11+00:00
-layout: post
 published: false
 slug: jazz-jam-session-neu-aufgelegt
 title: Jazz Jam Session neu aufgelegt

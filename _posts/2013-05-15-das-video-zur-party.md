@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-05-15 09:43:34+00:00
-layout: post
 published: false
 slug: das-video-zur-party
 title: Die Party in bewegten Bildern

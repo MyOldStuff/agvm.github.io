@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-10 09:33:59+00:00
 layout: page
 slug: junges-orchester

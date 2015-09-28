@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2013-09-20 16:38:43+00:00
-layout: post
 published: false
 slug: theatersport
 title: Theatersport

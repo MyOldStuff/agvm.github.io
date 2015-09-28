@@ -1,8 +1,6 @@
 ---
 author: xx
-comments: false
 date: 2014-06-12 12:17:31+00:00
-layout: post
 published: false
 slug: stiftungsfestkonzert
 title: Stiftungsfestkonzert in St. Benno

@@ -1,6 +1,5 @@
 ---
 author: tm
-comments: false
 date: 2014-11-25 16:32:16+00:00
 layout: page
 slug: projekte-termine-konzerte

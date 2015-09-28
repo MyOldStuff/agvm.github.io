@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-06-26 08:45:53+00:00
-layout: post
 published: false
 slug: 154-stiftungsfestkonzert
 title: 154. Stiftungsfestkonzert

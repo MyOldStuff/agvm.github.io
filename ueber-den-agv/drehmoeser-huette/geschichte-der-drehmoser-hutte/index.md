@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2012-11-02 07:46:44+00:00
 layout: page
 slug: geschichte-der-drehmoser-hutte

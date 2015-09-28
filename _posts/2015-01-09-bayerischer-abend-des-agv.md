@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2015-01-09 09:11:54+00:00
-layout: post
 published: false
 slug: bayerischer-abend-des-agv
 title: Bayerischer Abend des AGV

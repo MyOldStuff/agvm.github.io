@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2015-06-25 09:52:48+00:00
-layout: post
 slug: der-agv-im-campusmagazin-des-br
 title: Der AGV im Campusmagazin des BR
 wordpress_id: 3328

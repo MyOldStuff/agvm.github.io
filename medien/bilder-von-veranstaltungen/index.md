@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-12-15 20:44:09+00:00
 layout: page
 slug: bilder-von-veranstaltungen

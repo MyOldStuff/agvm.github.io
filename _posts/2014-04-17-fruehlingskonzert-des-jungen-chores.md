@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-04-17 18:14:47+00:00
-layout: post
 published: false
 slug: fruehlingskonzert-des-jungen-chores
 title: Frühlingskonzert des Jungen Chores

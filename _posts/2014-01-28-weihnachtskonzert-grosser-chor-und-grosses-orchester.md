@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-01-28 10:18:59+00:00
-layout: post
 published: false
 slug: weihnachtskonzert-grosser-chor-und-grosses-orchester
 title: Weihnachtskonzert Großes Orchester und Großer Chor

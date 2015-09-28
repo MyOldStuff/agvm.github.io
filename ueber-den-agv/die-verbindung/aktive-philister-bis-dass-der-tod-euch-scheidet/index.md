@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-25 19:24:29+00:00
 layout: page
 slug: aktive-philister-bis-dass-der-tod-euch-scheidet

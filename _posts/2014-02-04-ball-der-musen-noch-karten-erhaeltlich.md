@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-02-04 15:11:33+00:00
-layout: post
 published: false
 slug: ball-der-musen-noch-karten-erhaeltlich
 title: Ball der Musen - Karten nur noch an der Abendkasse

@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-02 08:52:09+00:00
 layout: page
 slug: die-verbindung

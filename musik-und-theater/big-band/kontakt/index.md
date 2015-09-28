@@ -1,6 +1,5 @@
 ---
 author: x
-comments: false
 date: 2012-10-22 18:19:48+00:00
 layout: page
 slug: kontakt

@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2012-10-25 13:57:17+00:00
 layout: page
 slug: scholastika-magazin

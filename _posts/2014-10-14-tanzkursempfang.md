@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2014-10-14 12:23:29+00:00
-layout: post
 published: false
 slug: tanzkursempfang
 title: Tanzkursempfang

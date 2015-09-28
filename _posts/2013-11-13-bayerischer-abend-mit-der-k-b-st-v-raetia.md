@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2013-11-13 15:42:28+00:00
-layout: post
 published: false
 slug: bayerischer-abend-mit-der-k-b-st-v-raetia
 title: Bayerischer Abend mit der K.B.St.V. Raetia

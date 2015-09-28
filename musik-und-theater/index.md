@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-10 09:30:33+00:00
 layout: page
 slug: musik-und-theater

@@ -1,6 +1,5 @@
 ---
 author: x
-comments: false
 date: 2012-11-02 12:24:23+00:00
 layout: page
 slug: tanzkurs

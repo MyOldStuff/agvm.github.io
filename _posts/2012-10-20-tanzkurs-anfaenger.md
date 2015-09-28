@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2012-10-20 11:33:09+00:00
-layout: post
 published: false
 slug: tanzkurs-anfaenger
 title: Lerne tanzen!

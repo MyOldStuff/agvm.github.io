@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-06-13 11:58:53+00:00
-layout: post
 published: false
 slug: stiftungsfestball-auf-der-ms-starnberg
 title: Stiftungsfestball auf der MS Starnberg

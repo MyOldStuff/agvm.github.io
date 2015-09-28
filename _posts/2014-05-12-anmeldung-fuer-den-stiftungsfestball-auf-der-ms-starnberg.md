@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-05-12 19:19:11+00:00
-layout: post
 published: false
 slug: anmeldung-fuer-den-stiftungsfestball-auf-der-ms-starnberg
 title: Anmeldung für den Stiftungsfestball auf der MS Starnberg

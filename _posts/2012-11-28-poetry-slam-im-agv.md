@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2012-11-28 13:35:48+00:00
-layout: post
 published: false
 slug: poetry-slam-im-agv
 title: Schlacht der Poeten im AGV

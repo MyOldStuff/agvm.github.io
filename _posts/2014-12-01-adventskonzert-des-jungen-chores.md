@@ -1,8 +1,6 @@
 ---
 author: ag
-comments: false
 date: 2014-12-01 00:22:13+00:00
-layout: post
 published: false
 slug: adventskonzert-des-jungen-chores
 title: Adventskonzert des Jungen Chores

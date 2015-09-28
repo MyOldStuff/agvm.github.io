@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2012-11-01 10:37:08+00:00
-layout: post
 published: false
 slug: voxenstopp-cd-release-party-siebensachen
 title: Voxenstopp feiert den CD-Release von Siebensachen

@@ -1,8 +1,6 @@
 ---
 author: mb
-comments: false
 date: 2015-03-16 18:22:12+00:00
-layout: post
 published: false
 slug: passionskonzert-des-grossen-chors
 title: Passionskonzert des Großen Chors

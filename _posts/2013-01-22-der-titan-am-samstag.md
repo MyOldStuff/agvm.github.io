@@ -1,8 +1,6 @@
 ---
 author: x
-comments: false
 date: 2013-01-22 10:05:23+00:00
-layout: post
 published: false
 slug: der-titan-am-samstag
 title: Der Titan am Samstag

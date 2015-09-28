@@ -1,6 +1,5 @@
 ---
 author: x
-comments: false
 date: 2012-11-23 15:48:19+00:00
 layout: page
 slug: interna

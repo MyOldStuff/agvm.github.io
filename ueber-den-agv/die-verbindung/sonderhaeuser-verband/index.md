@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2011-11-25 19:28:52+00:00
 layout: page
 slug: sonderhaeuser-verband

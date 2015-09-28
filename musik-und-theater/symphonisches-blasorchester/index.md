@@ -1,6 +1,5 @@
 ---
 author: ag
-comments: false
 date: 2015-02-14 20:52:39+00:00
 layout: page
 slug: symphonisches-blasorchester
