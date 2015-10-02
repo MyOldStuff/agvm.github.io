@@ -60,4 +60,5 @@ gems:
   - jekyll-sitemap
 
 sass:
+  sass_dir: assets/_sass
   style: :compressed
